@@ -9,5 +9,5 @@
 `$ java -version`
 
 `$ javac -version`
-![](https://github.com/EngmLabsMX/fotos/blob/main/commandos.PNG?raw=true)
+![](https://github.com/EngmLabsMX/fotos/blob/main/comm.png?raw=true)
 
