@@ -21,7 +21,8 @@
 
 ![](https://github.com/EngmLabsMX/fotos/blob/main/uu.PNG?raw=true)
 
-and  after of compile it, javac command will create a file named hello.class, this files will be the file that can execute in our command line, you can run it with the below command
+and  after of compile it, javac command will create a file named Hello.class, this files will be the file that can execute in our command line, you can run it with the below command
 
 `$ java Hello.class`
+
 
