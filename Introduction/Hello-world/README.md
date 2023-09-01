@@ -10,5 +10,18 @@
 
 `$ javac -version`
 
-![](https://github.com/EngmLabsMX/fotos/blob/main/comm.png?raw=true)
+![](https://github.com/EngmLabsMX/fotos/blob/main/commandos.PNG?raw=true)
+
+- after of check if all java components was installed succesfull you can proceed to run the exaples in your pc
+
+- you will have 2 option to run this example
+1. Download the [Hello.java file ](https://github.com/EngmLabsMX/Java/blob/main/Introduction/Hello-world/Hello.java) and compile it in your PC with the below command
+
+`$ javac Hello.java`
+
+![](https://github.com/EngmLabsMX/fotos/blob/main/uu.PNG?raw=true)
+
+and  after of compile it, javac command will create a file named hello.class, this files will be the file that can execute in our command line, you can run it with the below command
+
+`$ java Hello.class`
 
