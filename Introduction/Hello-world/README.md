@@ -10,7 +10,7 @@
 
 `$ javac -version`
 
-![](https://github.com/EngmLabsMX/fotos/blob/main/commandos.PNG?raw=true)
+![](https://github.com/EngmLabsMX/fotos/blob/main/comm.png?raw=true)
 
 - after of check if all java components was installed succesfull you can proceed to run the exaples in your pc
 
