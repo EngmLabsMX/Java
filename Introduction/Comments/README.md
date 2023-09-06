@@ -9,11 +9,11 @@ Single-line comments start with `//` and extend to the end of the line. They are
 Example:
 ```java
 int age = 25; // Initialize the age variable
-
+```
 ## Multi-Line Comments
 
 Multi-line comments, enclosed between `/*` and `*/`, allow for longer explanations spanning multiple lines. They are useful for commenting out blocks of code or providing more extensive context.
-
+```java
 Example:
 /*
 This is a multi-line comment.
@@ -21,10 +21,11 @@ It can cover multiple lines of explanation or code.
 */
 int x = 10;
 int y = 20;
+```
 ## Documentation Comments (Javadoc)
 
 Documentation comments, marked with `/**` and `*/`, are used for generating documentation from source code. These comments are typically placed before classes, methods, and fields to provide comprehensive documentation for developers.
-
+``` java
 Example:
 /**
  * This is a Javadoc comment for a class.
@@ -39,4 +40,5 @@ public class MyClass {
         // Method code here
     }
 }
+```
 Comments in Java are vital for code maintainability and collaboration, as they help developers understand the code's logic and functionality.
