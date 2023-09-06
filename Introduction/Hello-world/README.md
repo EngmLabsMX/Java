@@ -25,6 +25,7 @@
 and  after of compile it, javac command will create a file named Hello.class, this files will be the file that can execute in our command line, you can run it with the below command
 
 `$ java Hello`
+![enter image description here](https://github.com/EngmLabsMX/fotos/blob/main/run.PNG?raw=true)
 
 The `javac` command is used to compile Java source code files (files with a `.java` extension) into bytecode files (files with a `.class` extension) that can be executed by the Java Virtual Machine (JVM). Here's why you need to use the `javac` command after writing a Java program:
 
